@@ -3,6 +3,8 @@
 💻 C | C++ | Java | Python | Streamlit | GitHub<br/>
 
 🚀 Building Projects | Exploring Web Dev & ML<br/>
+📬 Connect with me:
+LinkedIn:www.linkedin.com/in/Sharvil-Patil-9137b1354
 
 # 💫 About Me:
 🎓 Computer Engineering Diploma Student | Tech Explorer | Project Builder<br><br>Hi, I'm Sharvil — a passionate 3rd-year Computer Engineering diploma student. I enjoy building practical tech solutions and learning new tools in software development, machine learning, and web technologies.<br><br>🚀 What I do:<br><br>Build projects using Python, Java, JavaScript<br><br>Explore machine learning models, especially using Scikit-learn, Streamlit<br><br>Contribute to GitHub regularly and manage version control<br><br>Currently interning and gaining hands-on experience with real-world software projects<br><br>🔧 Tools & Technologies:<br><br>Languages: Python, Java, C++<br><br>Tools: Git, GitHub, VS Code, Streamlit<br><br>Libraries: pandas, sklearn, matplotlib<br><br>Web: HTML, CSS, JavaScript, React basics<br><br>🧠 Always Learning:<br>Exploring AI/ML, full-stack development, and open-source collaboration.
