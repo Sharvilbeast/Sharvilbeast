@@ -1,35 +1,8 @@
-🎓 Computer Engineering Diploma Student | Tech Explorer | Project Builder
+👨‍💻 3rd Year Computer Engineering Diploma Student<br/>
+🎮 Aspiring Game Developer | UI/UX Enthusiast<br/>
+💻 C | C++ | Java | Python | Streamlit | GitHub<br/>
 
-Hi, I'm Sharvil — a passionate 3rd-year Computer Engineering diploma student. I enjoy building practical tech solutions and learning new tools in software development, machine learning, and web technologies.
-
-🚀 What I do:
-
-Build projects using Python, Java, JavaScript<br/>
-
-Explore machine learning models, especially using Scikit-learn, Streamlit<br/>
-
-Contribute to GitHub regularly and manage version control<br/>
-
-Currently interning and gaining hands-on experience with real-world software projects<br/>
-
-🔧 Tools & Technologies:<br/>
-
-Languages: Python, Java, C++<br/>
-
-Tools: Git, GitHub, VS Code, Streamlit<br/>
-
-Libraries: pandas, sklearn, matplotlib<br/>
-
-Web: HTML, CSS, JavaScript, React basics<br/>
-
-🧠 Always Learning:<br/>
-Exploring AI/ML, full-stack development, and open-source collaboration.<br/>
-
-📬 Let’s Connect:<br/>
-
-LinkedIn:(www.linkedin.com/in/sharvil-patil-9137b1354)<br/>
-
-Instagram:sharvil_patil_24<br/>
+🚀 Building Projects | Exploring Web Dev & ML<br/>
 
 # 💫 About Me:
 🎓 Computer Engineering Diploma Student | Tech Explorer | Project Builder<br><br>Hi, I'm Sharvil — a passionate 3rd-year Computer Engineering diploma student. I enjoy building practical tech solutions and learning new tools in software development, machine learning, and web technologies.<br><br>🚀 What I do:<br><br>Build projects using Python, Java, JavaScript<br><br>Explore machine learning models, especially using Scikit-learn, Streamlit<br><br>Contribute to GitHub regularly and manage version control<br><br>Currently interning and gaining hands-on experience with real-world software projects<br><br>🔧 Tools & Technologies:<br><br>Languages: Python, Java, C++<br><br>Tools: Git, GitHub, VS Code, Streamlit<br><br>Libraries: pandas, sklearn, matplotlib<br><br>Web: HTML, CSS, JavaScript, React basics<br><br>🧠 Always Learning:<br>Exploring AI/ML, full-stack development, and open-source collaboration.
